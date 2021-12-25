@@ -1,0 +1,110 @@
+.logo {
+    height: 50px;
+    float: left;
+    width: 50%;
+    font-size: 29px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    color: white;
+    padding-bottom: 5px;
+    font-weight: 400;
+    padding-top: 14px;
+}
+
+.mainBar {
+    display: block;
+    overflow: hidden;
+    background: blue;
+}
+
+.contuct {
+    font-size: 12px;
+    color: white;
+    float: left;
+    margin-right: 40px;
+}
+
+.pass {
+    font-size: 12px;
+    font-family: sans-serif;
+    color: white;
+    float: left;
+    margin-right: 15px;
+}
+
+.info {
+    margin-top: 20px;
+}
+
+.forget a {
+    color: #ddddddab;
+}
+
+.fbLogo {float: left;width: 50%;display: block;overflow: hidden;}
+
+.fbLogo img {width: 100%;}
+
+.sub {
+    margin-top: 13px;
+    border: 1px solid black;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: sans-serif;
+    background: #22228a;
+    margin-left: 20px;
+}
+
+.formBar {display: block;overflow: hidden;}
+
+body {
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    width: 100%;
+    background: #e7ecf2;
+}
+
+.loginForm {display: block;float: left;overflow: hidden;}
+
+.loginForm span {
+    font-size: 20px;
+    color: blue;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-left: 70px;
+}
+
+
+.infoText {
+    font-size: 16px;
+    font-weight: 600;
+    padding: 30px;
+    float: left;
+    display: block;
+    overflow: hidden;
+}
+
+.loginForm input {
+    width: 150px;
+}
+
+.infoBox {
+    float: left;
+    display: block;
+    overflow: hidden;
+    margin-left: 10px;
+    margin-top: 58px;
+}
+
+.infoText span {
+    margin-left: 0px;
+}
+
+.signUp {
+    box-shadow: 8px 10px 10px #1a1919;
+    color: white;
+    background: blue;
+    border: 1px solid black;
+    padding: 10px;
+}
